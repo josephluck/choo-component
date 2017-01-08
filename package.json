@@ -1,0 +1,21 @@
+{
+  "name": "choo-component-demo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "map.js",
+  "scripts": {
+    "dev": "budo index.js --live --pushstate --host=localhost --port=8888 --serve bundle.js --base=/ -- -t babelify"
+  },
+  "keywords": [],
+  "author": "josephluck <joseph.luck@sky.com>",
+  "license": "MIT",
+  "dependencies": {
+    "choo": "^4.0.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babelify": "^7.3.0",
+    "budo": "^9.4.1"
+  }
+}
