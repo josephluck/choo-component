@@ -4,7 +4,7 @@
   "description": "",
   "main": "map.js",
   "scripts": {
-    "dev": "budo index.js --live --pushstate --host=localhost --port=8888 --serve bundle.js --base=/ -- -t babelify"
+    "dev": "budo example.js --live --pushstate --host=localhost --port=8888 --serve bundle.js --base=/ -- -t babelify"
   },
   "keywords": [],
   "author": "josephluck <joseph.luck@sky.com>",
