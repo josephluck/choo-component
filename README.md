@@ -1,5 +1,7 @@
 # Choo components
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/josephluck/choo-component.svg)](https://greenkeeper.io/)
+
 A super helpful library to imitate reusable stateful components in Choo.
 
 ## Useage
